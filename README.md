@@ -1,0 +1,2 @@
+# sicp
+decidion sicp exercises
